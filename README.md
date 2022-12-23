@@ -23,3 +23,5 @@
 Sample snippet:
 
 ![mul-quiz](./mul-quiz.png)
+
+[Live-Link](https://aravindont.github.io/multiplication-quiz-app/?) of App
