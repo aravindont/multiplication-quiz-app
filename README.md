@@ -15,3 +15,11 @@
 - Added the style to html by trageting the `class` names and `id` names in the `styles.css` file and also adde the hoer effects using sudo classes.
 
 ## JavaScript
+
+- created `index.js` file to add the javascript code to make the website functional
+
+- In this project majorly learnt about how to add the `localStorage` to store the values of the variables for example in this app i store the score value and persisted its value even after reloading the website.
+
+Sample snippet:
+
+![mul-quiz](./mul-quiz.png)
